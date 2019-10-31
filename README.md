@@ -1,2 +1,5 @@
-# Issue-Summary
-编译过程中问题及解决方法 Gathering all issues and solutions during openwrt firmware compilation 
+# 编译过程问题汇总
+
+欢迎点击issues标签页，提交问题和答案
+
+希望能够沉淀一些 常见问题 和 解决方法
